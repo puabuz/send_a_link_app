@@ -41,7 +41,7 @@ li{
 .button_wrap{
   display: flex;
   justify-content: center;
-  margin: 0 auto;
+  margin: 5% auto;
   max-width: 600px;
 }
 
